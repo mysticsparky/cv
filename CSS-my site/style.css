@@ -1,0 +1,49 @@
+.top-container{
+    display: inline block;
+    background-color:#FFF4E0;
+    padding:100px;
+    position: relative;
+    
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'merriweather',serif;
+}
+h1{font-family: 'sacramento',cursive;
+    font-size: 562.5%;
+    margin:  50px auto 0 auto; 
+    color: #66BFBF;
+    
+}
+h2{
+font-family:  'Montserrat', sans-serif;
+color: #66BFBF;
+font-size:2.5rem ;
+}
+h3{
+    font-family:  'Montserrat', sans-serif;;
+    color: #11999E;
+}
+
+.cloud2{
+    position: absolute;
+    left: 250px;
+}
+.cloud1{
+    position: absolute;
+    left: 1000px;
+    top: 60px;
+}
+.profile-photo{
+    
+    height: 180px;
+    max: width 180px;
+    border-radius: 0%;
+
+}
+.heading-2{
+    font-size:2.5rem ;
+    font-weight: normal;
+    color: #66BFBF;
+}
